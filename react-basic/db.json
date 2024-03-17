@@ -1,0 +1,37 @@
+{
+    "list":[
+        {
+          "rpid": 3,
+          "user": {
+            "uid": "13258165",
+            "avatar": "http://pic.baike.soso.com/p/20130902/20130902173619-158455214.jpg",
+            "uname": "周杰伦"
+          },
+          "content": "哎哟，不错哦",
+          "ctime": "10-18 08: 15",
+          "like": 126
+        },
+        {
+          "rpid": 2,
+          "user": {
+            "uid": "36080105",
+            "avatar": "http://y.gtimg.cn/music/photo_new/T001R300x300M000000CK5xN3yZDJt.jpg?max_age=2592000",
+            "uname": "许嵩"
+          },
+          "content": "我寻你千百度 日出到迟暮",
+          "ctime": "11-13 11: 29",
+          "like": 88
+        },
+        {
+          "rpid": 1,
+          "user": {
+            "uid": "30009257",
+            "avatar": "https://www.itheima.com/images/newsICON/201705311848238.jpg",
+            "uname": "黑马前端"
+          },
+          "content": "学前端就来黑马",
+          "ctime": "10-19 09: 00",
+          "like": 66
+        }
+      ]
+}
